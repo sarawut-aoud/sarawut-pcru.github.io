@@ -2,6 +2,7 @@
   "_id": {
     "$oid": "61ffe0bc14e5c3078bc2abec"
   },
+  "uid": "1",
   "username": "staff1",
   "password": "1234",
   "prefix": "นาย",
@@ -21,6 +22,7 @@
   "_id": {
     "$oid": "61ffe13814e5c3078bc2abef"
   },
+  "uid": "2",
   "username": "staff2",
   "password": "1234",
   "prefix": "นาย",
@@ -40,6 +42,7 @@
   "_id": {
     "$oid": "61ffe14914e5c3078bc2abf1"
   },
+  "uid": "3",
   "username": "staff3",
   "password": "1234",
   "prefix": "นาย",
@@ -59,6 +62,7 @@
   "_id": {
     "$oid": "61ffe15614e5c3078bc2abf3"
   },
+  "uid": "4",
   "username": "staff4",
   "password": "1234",
   "prefix": "นาย",
